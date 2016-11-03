@@ -13,7 +13,7 @@
    Base Styles, Bootstrap Modifications & Fonts Import
    ========================================================================== */
 
-@import url('https://fonts.googleapis.com/css?family=Questrial');
+@import url('https://fonts.googleapis.com/css?family=Bitter');
 
 
 ::-moz-selection {
@@ -59,7 +59,7 @@
 
 
 body {
-    font-family: 'Questrial', sans-serif;
+    font-family: 'Bitter', serif;
     font-weight: 400;
     font-size: 16px;
 
