@@ -161,8 +161,8 @@ h1, h2, h3, h4, h5, h6 {
 	margin-left: 10px;
 }
 
-#workwrap {
-	background: url(../img/work.jpg) no-repeat center top;
+#workwrap1 {
+	background: url(../img/work1.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
@@ -182,7 +182,7 @@ h1, h2, h3, h4, h5, h6 {
     background-size: cover;
 }
 
-#workwrap h1 {
+#workwrap1 h1 {
 	color:#ffffff;
 	padding-top: 10px;
 	padding-bottom: 20px;
@@ -191,7 +191,75 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: bold;
 }
 
-#workwrap h4 {
+#workwrap1 h4 {
+	font-weight: 400;
+	color: #ffffff
+}
+#workwrap2 {
+	background: url(../img/work2.jpg) no-repeat center top;
+	margin-top: -70px;
+	padding-top: 250px;
+	text-align:center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 650px;
+	width: 100%;
+
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#workwrap2 h1 {
+	color:#ffffff;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	letter-spacing: 4px;
+	font-size: 80px;
+	font-weight: bold;
+}
+
+#workwrap2 h4 {
+	font-weight: 400;
+	color: #ffffff
+}
+#workwrap3 {
+	background: url(../img/work3.jpg) no-repeat center top;
+	margin-top: -70px;
+	padding-top: 250px;
+	text-align:center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 650px;
+	width: 100%;
+
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#workwrap3 h1 {
+	color:#ffffff;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	letter-spacing: 4px;
+	font-size: 80px;
+	font-weight: bold;
+}
+
+#workwrap3 h4 {
 	font-weight: 400;
 	color: #ffffff
 }
